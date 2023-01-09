@@ -15,6 +15,4 @@ A book recommendation app which lists books in particular category which is bein
 <li>React</li>
 </ul>
 
-Hosted on : https://www.netlify.com / (Netlify)
-
 preview demo : https://o0hcc8.csb.app/
